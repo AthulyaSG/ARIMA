@@ -77,6 +77,17 @@
 
 ![image](https://github.com/user-attachments/assets/1944adea-a85c-44fb-9575-e99b0313f82d)
 
+## Auto Regression (AR) Model
+
+- Uses past values of a variable to predict its future values
+- Parameters
+      * p, the number of lagged values (order of autoregression)
+		* q, the number of past errors q (order of moving average)
+	   * d, the number of times the time series is differenced to make it stationary (order of differencing)
+
+![image](https://github.com/user-attachments/assets/4c2e2e11-c711-422f-9075-a6253f014496)
+
+
 
 
 
