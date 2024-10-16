@@ -92,7 +92,8 @@
 - Used to identify trends and patterns in data
 - Used to make predictions about future trends
 
-![image](https://github.com/user-attachments/assets/fbf221f6-2705-422c-9198-e10a82ce868a)
+![image](https://github.com/user-attachments/assets/f2190843-0553-4d88-a946-9d6805208138)
+
 
 
 
