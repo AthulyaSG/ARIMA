@@ -1,4 +1,4 @@
-# Rice Production Forecast Using ARIMA Model
+![image](https://github.com/user-attachments/assets/ecf376af-421a-482c-b596-8a4c3ca8bbbb)# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -132,9 +132,14 @@
 
 - To visualize the forecasted values of an ARIMA model
 
-![image](https://github.com/user-attachments/assets/5accb254-94bd-4e72-ada5-933479219585)
+![image](https://github.com/user-attachments/assets/5a334e7c-2e10-47cd-a12a-761d22fb8536)
 
 ![image](https://github.com/user-attachments/assets/34d0af9b-df28-4ded-b253-78c97db1595c)
+
+## Conclusion
+
+- By implementing ARIMA Model predictive values are almost accurate to the actual outcomes 
+- Though the prediction from ARIMA model nearly is accurate, if there is a major breakdown in climatic conditions this model can not predict the accurate values
 
 
 
