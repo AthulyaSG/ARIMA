@@ -56,6 +56,16 @@
 
 ![image](https://github.com/user-attachments/assets/feb0030c-b37c-44ae-b6f6-f95ca575337a)
 
+### Time Shift Transformation
+
+- To compare and analyze data at different lags
+- To identify the time delay between the two variables
+- To better understand the relationship between them
+
+![image](https://github.com/user-attachments/assets/d630bd48-631a-4e3b-8fa2-2148ddd8b57e)
+
+
+
 
 
 
