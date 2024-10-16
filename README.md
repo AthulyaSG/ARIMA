@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/936eb42a-dcce-45be-b377-5f3126fae2a2)![image](https://github.com/user-attachments/assets/d79d289f-df64-4e02-b71e-455459634f2d)# Rice Production Forecast Using ARIMA Model
+# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -69,6 +69,13 @@
 - To separate a time series into trend, seasonality, and residual (or noise)
 
 ![image](https://github.com/user-attachments/assets/8c6e7181-1916-4c49-a9fe-fde221de8afb)
+
+## Auto Correlation Function and Partial Auto Correlation
+
+- ACF: the correlation of the time series with its past values over different lags
+- PACF: the correlation of the time series with its past values over different lags, but without the influence of other lags
+
+![image](https://github.com/user-attachments/assets/1944adea-a85c-44fb-9575-e99b0313f82d)
 
 
 
