@@ -17,7 +17,8 @@
 - To assess stationarity [statistical properties do not change over time]
 - To improve forecasting accuracy [smooth out the data]
 
-![image](https://github.com/user-attachments/assets/39f06e9b-a0c5-49bb-b62b-8f93e0bd4f1f)
+![image](https://github.com/user-attachments/assets/6a4f5853-2a63-48e7-a60d-68bfff93f282)
+
 
 
 
