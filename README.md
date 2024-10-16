@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0c4a316-5ff9-4091-92ef-683f18192bb0)# Rice Production Forecast Using ARIMA Model
+# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -128,7 +128,13 @@
 
   ![image](https://github.com/user-attachments/assets/b5ce4440-943c-4953-b1df-cffdb39d2e05)
 
+## Forecast
 
+- To visualize the forecasted values of an ARIMA model
+
+![image](https://github.com/user-attachments/assets/5accb254-94bd-4e72-ada5-933479219585)
+
+![image](https://github.com/user-attachments/assets/34d0af9b-df28-4ded-b253-78c97db1595c)
 
 
 
