@@ -1,4 +1,4 @@
-# Rice Production Forecast Using ARIMA Model
+![image](https://github.com/user-attachments/assets/4e07dd93-714a-4dda-a4d5-57b8f912113b)![image](https://github.com/user-attachments/assets/855ef888-bf82-40c8-9f67-368a144d3fdf)# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -99,6 +99,16 @@
 - Used for time series analysis and forecasting 
 
 ![image](https://github.com/user-attachments/assets/001c13dc-ca18-4b99-bbf4-06bec5a81d64)
+
+## Model Performance
+
+### Mean Square Errors
+
+- To compare the predictions of the model against the actual data
+- Calculated as the average of the squared forecast error values
+
+![image](https://github.com/user-attachments/assets/d0f34b17-f466-4c49-82cb-7b68105cafd7)
+
 
 
 
