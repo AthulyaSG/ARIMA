@@ -31,6 +31,17 @@
 
   ![image](https://github.com/user-attachments/assets/7f7c9b91-af8a-4077-bc8a-923ff876983e)
 
+## Data Transformation
+
+### Logarithmic Transformation
+
+- To stabilize the variance of the data
+- To convert multiplicative relationships into additive relationships
+- To make the data more normally distributed
+
+![image](https://github.com/user-attachments/assets/818e9238-c515-48fa-b36e-8b55c84f27ed)
+
+
 
 
 
