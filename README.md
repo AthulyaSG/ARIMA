@@ -1,4 +1,4 @@
-# Rice Production Forecast Using ARIMA Model
+![image](https://github.com/user-attachments/assets/936eb42a-dcce-45be-b377-5f3126fae2a2)![image](https://github.com/user-attachments/assets/d79d289f-df64-4e02-b71e-455459634f2d)# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -63,6 +63,12 @@
 - To better understand the relationship between them
 
 ![image](https://github.com/user-attachments/assets/d630bd48-631a-4e3b-8fa2-2148ddd8b57e)
+
+## Decompose
+
+- To separate a time series into trend, seasonality, and residual (or noise)
+
+![image](https://github.com/user-attachments/assets/8c6e7181-1916-4c49-a9fe-fde221de8afb)
 
 
 
