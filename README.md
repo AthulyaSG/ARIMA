@@ -66,8 +66,15 @@
 
 ## Data Visualization
 
-![image](https://github.com/user-attachments/assets/7211ba98-8fa1-4565-b39c-bfe5601fd134)
+### Line Chart
 
+- To visualize crop prodction from 1990 to 2020
+
+![image](https://github.com/user-attachments/assets/0e4b754f-2b99-44b7-b3f3-364500e7a972)
+
+### Histogram
+
+- To find the frequency
 ![image](https://github.com/user-attachments/assets/4ee01485-b61b-41c9-a777-713649215255)
 
 ## Decompose
