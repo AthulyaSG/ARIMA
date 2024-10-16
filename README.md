@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ecf376af-421a-482c-b596-8a4c3ca8bbbb)# Rice Production Forecast Using ARIMA Model
+# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -63,6 +63,12 @@
 - To better understand the relationship between them
 
 ![image](https://github.com/user-attachments/assets/d630bd48-631a-4e3b-8fa2-2148ddd8b57e)
+
+## Data Visualization
+
+![image](https://github.com/user-attachments/assets/7211ba98-8fa1-4565-b39c-bfe5601fd134)
+
+![image](https://github.com/user-attachments/assets/4ee01485-b61b-41c9-a777-713649215255)
 
 ## Decompose
 
