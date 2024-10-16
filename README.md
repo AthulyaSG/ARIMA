@@ -94,6 +94,12 @@
 
 ![image](https://github.com/user-attachments/assets/f2190843-0553-4d88-a946-9d6805208138)
 
+## ARIMA (Auto Regression Integrated Moving Average)
+
+- Used for time series analysis and forecasting 
+
+![image](https://github.com/user-attachments/assets/001c13dc-ca18-4b99-bbf4-06bec5a81d64)
+
 
 
 
