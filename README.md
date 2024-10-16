@@ -75,6 +75,7 @@
 ### Histogram
 
 - To find the frequency
+
 ![image](https://github.com/user-attachments/assets/4ee01485-b61b-41c9-a777-713649215255)
 
 ## Decompose
