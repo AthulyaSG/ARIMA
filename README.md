@@ -81,12 +81,18 @@
 
 - Uses past values of a variable to predict its future values
 - Parameters
-      * p, the number of lagged values (order of autoregression)
-		* q, the number of past errors q (order of moving average)
-	   * d, the number of times the time series is differenced to make it stationary (order of differencing)
+ 	* p, the number of lagged values (order of autoregression)
+	* q, the number of past errors q (order of moving average)
+	* d, the number of times the time series is differenced to make it stationary (order of differencing)
 
 ![image](https://github.com/user-attachments/assets/4c2e2e11-c711-422f-9075-a6253f014496)
 
+## Moving Average Model
+
+- Used to identify trends and patterns in data
+- Used to make predictions about future trends
+
+![image](https://github.com/user-attachments/assets/fbf221f6-2705-422c-9198-e10a82ce868a)
 
 
 
