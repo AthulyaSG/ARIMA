@@ -17,7 +17,8 @@
 - To assess stationarity [statistical properties do not change over time]
 - To improve forecasting accuracy [smooth out the data]
 
-![image](https://github.com/user-attachments/assets/6a4f5853-2a63-48e7-a60d-68bfff93f282)
+![image](https://github.com/user-attachments/assets/631af118-9a7d-4e3e-9b8b-b8901e1fac5e)
+
 
 ## Augmented Dickey-Fuller (ADF) test
 
