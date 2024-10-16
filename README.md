@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4723c469-a399-4688-8d0f-1cb214095f01)# Rice Production Forecast Using ARIMA Model
+![image](https://github.com/user-attachments/assets/f0c4a316-5ff9-4091-92ef-683f18192bb0)# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -121,6 +121,13 @@
 - To transform the data so that each data point represents the cumulative sum of the previous data points
 
 ![image](https://github.com/user-attachments/assets/f08827d2-28b5-44e9-ba6a-e497b169313d)
+
+### Inverse of Log is Exp
+
+- To transform a logarithmic transformation back to its original scale
+
+  ![image](https://github.com/user-attachments/assets/b5ce4440-943c-4953-b1df-cffdb39d2e05)
+
 
 
 
