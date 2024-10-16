@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4e07dd93-714a-4dda-a4d5-57b8f912113b)![image](https://github.com/user-attachments/assets/855ef888-bf82-40c8-9f67-368a144d3fdf)# Rice Production Forecast Using ARIMA Model
+![image](https://github.com/user-attachments/assets/dadeb600-816e-4bc9-94e2-02600450ca38)# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -108,6 +108,14 @@
 - Calculated as the average of the squared forecast error values
 
 ![image](https://github.com/user-attachments/assets/d0f34b17-f466-4c49-82cb-7b68105cafd7)
+
+### Prediction and Reverse Transformation
+
+- Prediction: the process of using a model to make an educated guess about an outcome or result
+- Reverse transformation: the process of converting a transformed value back to its original form
+
+![image](https://github.com/user-attachments/assets/b02f2e64-9f25-4e57-bc21-6b34c975cbc9)
+
 
 
 
