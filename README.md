@@ -19,6 +19,15 @@
 
 ![image](https://github.com/user-attachments/assets/6a4f5853-2a63-48e7-a60d-68bfff93f282)
 
+## Augmented Dickey-Fuller (ADF) test
+
+- To check whether the time series is stationary or not
+
+![image](https://github.com/user-attachments/assets/fc6bf5c2-4655-4394-9215-d19e84325b08)
+
+
+
+
 
 
 
