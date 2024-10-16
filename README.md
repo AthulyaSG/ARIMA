@@ -49,6 +49,13 @@
 
 ![image](https://github.com/user-attachments/assets/41a0d9db-16d6-4588-9bf8-209f8fbfe5bf)
 
+### Exponential Decay Transformation
+
+- To stabilize the variance of the data
+- To model and analyze the data using traditional time series techniques
+
+![image](https://github.com/user-attachments/assets/feb0030c-b37c-44ae-b6f6-f95ca575337a)
+
 
 
 
