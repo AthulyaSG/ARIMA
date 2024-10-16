@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dadeb600-816e-4bc9-94e2-02600450ca38)# Rice Production Forecast Using ARIMA Model
+![image](https://github.com/user-attachments/assets/4723c469-a399-4688-8d0f-1cb214095f01)# Rice Production Forecast Using ARIMA Model
 
 ## Introduction
 
@@ -116,6 +116,11 @@
 
 ![image](https://github.com/user-attachments/assets/b02f2e64-9f25-4e57-bc21-6b34c975cbc9)
 
+### Convert to Cumulative
+
+- To transform the data so that each data point represents the cumulative sum of the previous data points
+
+![image](https://github.com/user-attachments/assets/f08827d2-28b5-44e9-ba6a-e497b169313d)
 
 
 
