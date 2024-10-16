@@ -25,6 +25,13 @@
 
 ![image](https://github.com/user-attachments/assets/fc6bf5c2-4655-4394-9215-d19e84325b08)
 
+## Coupling AD-Fuller check with MA and moving SD
+
+- To identify the trend and volatility of the data
+
+  ![image](https://github.com/user-attachments/assets/7f7c9b91-af8a-4077-bc8a-923ff876983e)
+
+
 
 
 
