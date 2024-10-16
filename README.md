@@ -41,6 +41,15 @@
 
 ![image](https://github.com/user-attachments/assets/818e9238-c515-48fa-b36e-8b55c84f27ed)
 
+### Removing Trend With Moving Average
+
+- To identify seasonal patterns
+- To stabilize the variance of the data
+- To make the time series stationary
+
+![image](https://github.com/user-attachments/assets/41a0d9db-16d6-4588-9bf8-209f8fbfe5bf)
+
+
 
 
 
